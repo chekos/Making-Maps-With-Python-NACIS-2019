@@ -41,3 +41,9 @@ This repository is an exploration of mapping capabilities in the python ecosyste
 8. `osmnx`
 9. `keplergl`
 10. `arcgis`
+
+
+## AHH
+Cut down the examples to only one quick run through the geoplot and geopandas example and then move on to the way that same map would look using other libraries. 
+
+Add links to NHGIS (ipums) etc etc.

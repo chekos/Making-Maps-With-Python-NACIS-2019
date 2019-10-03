@@ -1,11 +1,9 @@
 name: nacis-2019
 channels:
   - conda-forge
-  - esri
 dependencies:
-  - osmnx
   - vega_datasets
   - mplleaflet
   - geoplot
-  - arcgis
   - nodejs
+  - osmnx
