@@ -31,9 +31,9 @@ This repository is an exploration of mapping capabilities in the python ecosyste
 ```
 
 ## TODO
-1. `geopandas`
-2. `geoplot` 
-3. `altair`
+1. `geopandas` - DONE
+2. `geoplot` - DONE
+3. `altair` - DONE
 4. `bokeh`
 5. `plotly`
 6. `folium`
