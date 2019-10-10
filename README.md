@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/Making-Maps-With-Python-NACIS-2019/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/Making-Maps-With-Python-NACIS-2019/master?urlpath=lab/tree/notebooks/making_maps_with_python.ipynb)
 
 ***
 
