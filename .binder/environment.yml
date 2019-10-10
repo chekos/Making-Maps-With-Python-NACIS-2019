@@ -1,10 +1,10 @@
 name: nacis-2019
-channels:
+channels: 
   - conda-forge
 dependencies:
-  - vega_datasets
+  - pandas
+  - geopandas
+  - altair
   - mplleaflet
-  - geoplot
-  - nodejs
-  - osmnx
-  - jupyterlab
+  - vega
+  - pysal
