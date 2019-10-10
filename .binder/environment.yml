@@ -4,6 +4,7 @@ channels:
 dependencies:
   - pandas
   - geopandas
+  - geoplot
   - altair
   - mplleaflet
   - vega
